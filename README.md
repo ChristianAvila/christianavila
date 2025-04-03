@@ -1,16 +1,15 @@
-## Hi there 👋
+# Christian Avila
 
-<!--
-**ChristianAvila/christianavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Platform Engineer | Building Scalable and Reliable Systems in the Cloud
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an experienced developer with a deep expertise in Go and Python
+development, deeply focused on cloud technologies and platform engineering. My
+goal is to create high-performing systems that deliver exceptional user
+experiences while ensuring the highest standards of reliability. Platform
+Engineer passionate about cloud computing, particularly AWS. I am dedicated to
+building scalable solutions and always eager to learn and implement
+cutting-edge. 
+
+Feel free to reach out if you have any questions or collaboration ideas!
